@@ -1,1 +1,380 @@
+______________________________
 
+HTML aka index.html
+______________________________
+
+<!doctype html>
+<html lang="de">
+        <meta charset="utf-8" />
+        <title>Fatoni</title>
+         <link href="styling.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+    	<header>
+   		<h1>
+   			Fatoni...
+   		</h1>
+   	</header>
+   		
+
+   		<div class="box">
+   		<p>
+   			... in München aufgewachsen. Er absolvierte den Zivildienst im Kindergarten und erhielt dann eine Ausbildung zum Kindermädchen. In seiner Kindheit war er ein Fan der Beatles.
+   		</p>
+   		<p>
+		Im Jahr 2000 gründete er zusammen mit Rapper Keno und Produzent Bustla die Creme Fresh Band in München. Bevor sich die Band 2012 trennte, veröffentlichte die Band vier Alben und eine EP. Manchmal ist Fatani im U20-Raum des Deutsch-Deutschen Grand Slam aktiv, hauptsächlich im Raum München. Bis 2010 waren Fatoni und seine Bandmitglieder Teil der Blaskapelle Moop Mama, spielten dann aber solo.
+		</p>
+	
+		<p>
+			Als Fatonis erstes Soloalbum Solange 2011 veröffentlicht wurde, wurde alles besser und 2013 veröffentlichte er ein Kollaborationsalbum Nocebo mit Edgar Wasser. Im folgenden Jahr wurde seine EP veröffentlicht und "Time" heilte den ganzen Hype. Fatoni hat C'mon im Jahr 2015 veröffentlicht! EP gibt dir eine. Edgar Wasser, Dexter und Occupanther Beats trugen dazu bei.
+		</p>
+		  <p>
+        Im selben Jahr veröffentlichten Fatani und Dexter sein Album "Picasso". Als das Album veröffentlicht wurde, erreichte es Platz 23 in der deutschen Albumchart. Als Gast ist Philipp Grüteringaka Kryptik Joe aus Deichkind zu hören. Fatonis Mixtape Im Modus wurde im März 2017 veröffentlicht. Zu diesem Zeitpunkt werden Edgar Wasser, Dexter und Juse Ju veröffentlicht. Der Ehepartner ist auch zu hören wie Maeckes, Retrogott und die elektronische Popband Grossstadtgeflüster.
+      </p>
+       
+		<p>
+			Im Oktober 2017 wurde das Album Alle Liebe veröffentlicht. Fatoni nahm dieses Album mit Sänger Mine auf. Die beiden hatten zuvor an dem Song Ziehst du mit by Mine mitgearbeitet. Das Album wurde bei den Pop Culture Awards 2018 für die Kategorien "Lieblingsalbum" und "Aufregendste Ideen / Aktivitäten" nominiert. Auf Fatonis nächstes Soloalbum folgte 2019 Andorra, das den 9. Platz in der deutschen Albumchart erreichte.
+		</p>
+		<p>
+			Neben dem Rapper ist Schneider auch unter Schauspielern aktiv. Er studierte Schauspiel an der Otto-Falckenberg-Schule und war in verschiedenen Aufführungen in München zu sehen, unter anderem bei den Münchner Kammerspielen. Nach einem Gastauftritt am Stadttheater Klagenfurt trat er von 2013 bis 2015 am Augsburger Theater auf. Seit 2015 moderiert er außerdem jeden zweiten Freitag im Monat die Die Fatoni Show auf Radio Puls.
+   		</p>
+   		<p>
+   			Auf Touren hat er zum einen seine Drummerin und seinen DJ dabei:
+   		</p>
+         <ul>
+            <li>
+               Linda-Philomène Tsoungui
+            </li>
+            <li>
+               V.Raeter
+            </li>
+         </ul>
+      </div>
+   	
+
+      <div class="box2">
+   		
+   		 <table>
+   			<tr>
+   				<th>Albuncover</th>
+   				<th>Titel</th>
+   				<th>Erscheinungsjahr</th>
+   			</tr>
+   			<tr>
+   				<td>
+   					<img src="images/album_prosecco-piff.jpg" width="100" height="100">
+   				</td>
+   				<td> <a href="diskographie.html"> Prosecco Piff </a></td>
+   				<td>2007</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_Solange-frueher-alles-besser-war.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html"> Solange früher alles besser war </a> </td>
+   				<td>2011</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_nocebo.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html"> Nobeco </a></td>
+   				<td>2013</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_die zeit heilt alle hypes.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html">Die Zeit heilt alle Hypes</a></td>
+   				<td>2014</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_cmon-ep.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html">C’MON! EP</a></td>
+   				<td>2015</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_yo-picasso.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html">Yo, Picasso</a></td>
+   				<td>2015</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_im modus.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html">Im Modus</a></td>
+   				<td>2017</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_alle-liebe-nachtraeglich.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html">Alle Liebe nachträglich </a></td>
+   				<td>2017</td>
+   			</tr>
+   			<tr>
+   				<td><img src="images/album_andorra.jpg" width="100" height="100"></td>
+   				<td><a href="diskographie.html">Andorra</a></td>
+   				<td>2019</td>
+   			</tr>
+   		</table>
+   	</div>
+   		<div class="box3">
+   			Quellen
+   			<a href="https://de.wikipedia.org/wiki/Fatoni"> Fatoni Quelle</a>
+   		</div>
+   	</body>
+</html>
+
+_______________________________________
+
+Diskographie aka diskographie.html
+_______________________________________
+
+<!doctype html>
+<html lang="de">
+        <meta charset="utf-8" />
+        <title>Diskographie Fatoni</title>
+         <link href="styling.css" type="text/css" rel="stylesheet" />
+  </head>
+    <body>
+       <header>
+      <h1>
+         Diskographie von Fatoni
+      </h1>
+      </header> 
+     
+      <div class="a1">
+         <h3>
+            Prosecco Piff
+         </h3>
+         <img class="dis" src="images/album_prosecco-piff.jpg" >
+         <ol class="liste">
+            <li>
+               Big
+            </li>
+            <li>
+               Tu's Nich
+            </li>
+            <li>
+               Der Hase
+            </li>
+            <li>
+               Uh Boy
+            </li>
+            <li>
+               Schwabing Anthem
+            </li>
+            <li>
+               Baby Blue
+            </li>
+            <li>
+               Name Belt
+            </li>
+            <li>
+               Komm In Den Club
+            </li>
+         </ol>
+      </div>
+
+      <div class="a2">
+         <h3>
+            Solange früher alles besser war
+         </h3>
+         <img class="dis" src="images/album_Solange-frueher-alles-besser-war.jpg">
+         <ol>
+            <li>
+               Lauf der Dinge
+            </li>
+            <li>
+               Solange früher alles besser war bleibt alles beim Alten
+            </li>
+            <li>
+               Geh weg du redest Dreck
+            </li>
+            <li>
+               HJ
+            </li>
+            <li>
+               Mutterficker von Track
+            </li>
+            <li>
+               BMI
+            </li>
+            <li>
+               Holiday Inn
+            </li>
+            <li>
+               Oase
+            </li>
+            <li>
+               Pille danach
+            </li>
+            <li>
+               Ich habe keine Vorurteile
+            </li>
+            <li>
+               Jeder 10. Deutsche
+            </li>
+            <li>
+               Findet mich das Glück?
+            </li>
+            <li>
+               Von Vorne
+            </li>
+            <li>
+               Wo du bist
+            </li>
+         </ol>
+      </div>
+
+      <div class="a3">
+         <h3>
+            Nocebo
+         </h3>
+         <img class="dis" src="images/album_nocebo.jpg">
+         <ol>
+            <li>
+               Intro
+            </li>
+            <li>
+               Jesus Christus
+            </li>
+            <li>
+               Deutscher Rap
+            </li>
+            <li>
+               Badaboombap
+            </li>
+            <li>
+               Ich bastel eine Collage
+            </li>
+            <li>
+               Nicht jetzt
+            </li>
+            <li>
+               Nicht jetzt
+            </li>
+            <li>
+               Kunst
+            </li>
+            <li>
+               Pretty Girls
+            </li>
+            <li>
+               Fans
+            </li>
+            <li>
+               Diktator von Deutschland (Teil 1)
+            </li>
+            <li>
+               Smile
+            </li>
+            <li>
+               Diktator von Deutschland (Teil 2)
+            </li>
+            <li>
+               Check uns aus!
+            </li>
+            <li>
+               Taschenlampe
+            </li>
+            <li>
+               Badaboombap (Remix)
+            </li>
+         </ol>
+      </div>
+   Hier gehts wieder zur <a href="index.html">Indexsseite</a>
+   </body>
+   
+   ____________________
+   
+   CSS aka styling.css
+   _____________________
+   
+   body {
+	font-family: "apercu",sans-serif;
+	text-align: center;
+	margin: 5%;
+	margin-top: 1%;
+	background: #F5DEB3;	
+
+}
+ h1 {
+	text-transform: uppercase;
+	font-size: 60px;
+	letter-spacing: 0.8em;
+	text-align: center;
+	padding: 10%;
+	margin-bottom: 1%;
+	background-image: url("images/fatoni.jpg");
+	text-shadow: white 0.1em 0.1em 0.2em;
+
+}
+h3{
+
+
+}
+div, p {
+	text-align: left;
+	content: 100px;
+}
+
+header {
+	
+	margin: 1%;
+
+}
+
+/* box vom text zu fatoni index */
+
+.box, .text {
+	float: left;
+	margin: 1%;
+	padding: 2%;		
+	background: #f90;
+
+
+	}
+
+/* box der tabelle zu den alben index */
+
+.box2 {
+	background: #f90;
+	margin: 1%;
+
+}
+
+
+table {
+	float: left;
+	background: #f90;
+	text-align: center; 
+	
+}
+
+/* diskogrphie, boxen mit alben */
+
+.a1, .a2, .a3 {
+float: left;
+margin: 1%;
+padding: 2%;
+padding-right: 10%;
+background: #f90;
+
+
+
+}
+
+/* tabelle index mit alben */
+
+td,th {
+	background-color: #C60;
+}
+
+/* tabelle index */
+
+.box2 table
+{
+	width: 100%;
+	border-spacing: 10px;
+
+}
+
+a {
+	color: black;
+}
+.dis{
+	width: 300px;
+	height: 300px;
+}
